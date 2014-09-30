@@ -1,6 +1,6 @@
 ﻿namespace cs575tester
 {
-    partial class Form1
+    partial class QuestionForm
     {
         /// <summary>
         /// Required designer variable.
