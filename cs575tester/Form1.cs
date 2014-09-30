@@ -15,5 +15,16 @@ namespace cs575tester
         {
             InitializeComponent();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            System.Windows.Forms.MessageBox.Show("YEAH");
+            Application.Exit();
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            System.Windows.Forms.MessageBox.Show("Try Again.");
+        }
     }
 }
